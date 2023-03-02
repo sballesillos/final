@@ -1,0 +1,38 @@
+body{
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	
+}
+
+p {
+    color: #646464;
+}
+h1,h2,h3 {
+	font-family: 'Roboto', sans-serif;
+    color: #0f1e5d;
+}
+
+h1 {
+    font-size: 30px;
+	
+}
+
+.contenedorprincipal{
+	width: 90%;
+	margin-left: 5%;
+}
+
+
+.columna1{
+	display:inline-block;
+	align:right;
+	width: 38%;
+	vertical-align: top;
+}
+
+.columna2{
+	display:inline-block;
+	width: 60%;
+	vertical-align: top;
+	
+}
+
